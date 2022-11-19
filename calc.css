@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.ibox{
+    width: 200px;
+    background-color: yellowgreen;
+    margin-left:20px;
+    height: 30px;
+}
+.container{
+    padding-top:25vh ;
+}
+.firstno{
+    font-size: 40px;
+    font-family: 'Acme', sans-serif;
+}
+.secondno{
+    font-size: 40px;
+    font-family: 'Acme', sans-serif;
+}
+.calc{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15vh;
+    text-shadow: 0 0 20px grey, 0 0 20px grey, 0 0 20px grey, 0 0 20px grey;
+}
+.result{
+    font-size: 40px;
+    font-family: 'Acme', sans-serif;
+}
+.btn{
+    font-size: 30px;
+    font-family: 'Acme', sans-serif;
+    height: 8vh;
+    width: 35vh;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+.btn:hover{
+    box-shadow:0 0 30px grey, 0 0 30px grey, 0 0 30px grey, 0 0 30px grey;
+}
+.letter:hover{
+    transform: translate3d(0, -10px, 22px);
+  color: #ff0266;
+}
+.letter{
+    padding-top: 10vh;
+}
